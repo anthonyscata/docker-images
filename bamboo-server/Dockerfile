@@ -9,7 +9,7 @@ MAINTAINER H. Wüthrich "hw@5px.ch"
 CMD ["/sbin/my_init"]
 
 # Environment
-ENV BAMBOO_VERSION 5.13.2
+ENV BAMBOO_VERSION 5.14.0.2
 ENV BAMBOO_HOME /home/bamboo
 ENV BAMBOO_SCHEME http
 
